@@ -1,6 +1,6 @@
 note
 	description: "Central control for running an ETF project."
-	author: "JSO and Jackie Wang"
+	author: ""
 	date: "$Date$"
 	revision: "$Revision$"
 
